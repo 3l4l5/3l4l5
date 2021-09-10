@@ -5,7 +5,6 @@
 <a href="https://github.com/3l4l5">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3l4l5" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=3l4l5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **3l4l5/3l4l5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
