@@ -1,4 +1,8 @@
 ### Hi there 👋
+深層学習を用いた医用画像のセグメンテーションについての研究をしています。<br>
+遊び場 -> [my_site](http://srkr.dev)
+
+
 <a href="https://github.com/3l4l5">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=3l4l5&count_private=true&show_icons=true" />
 </a>
