@@ -1,7 +1,5 @@
 ### Hi there 👋
-大学院生です<br>
-深層学習を用いた医用画像のセグメンテーションについての研究をしています。<br>
-遊び場 -> [my_site](http://srkr.dev)
+
 
 
 <a href="https://github.com/3l4l5">
